@@ -17,16 +17,16 @@ https://pjreddie.com/darknet/yolo/
 By using this Notebook you can detect objects from any image for Example :
 EX1 
 #### Before 
-![Image1](Testimages/test2.jpg)
+![Image1](Test-images/test2.jpg)
 
 #### After
-![Output1](Outputimages/savedImage1.jpg)
+![Output1](Output-images/savedImage1.jpg)
 
 EX2
 #### Before 
-![Image1](Testimages/test1.jpg)
+![Image1](Test-images/test1.jpg)
 
 #### After
-![Output1](Outputimages/savedImage2.jpg)
+![Output1](Output-images/savedImage2.jpg)
 
 
